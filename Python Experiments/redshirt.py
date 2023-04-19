@@ -19,7 +19,7 @@ print(jacket[jacketnum])
 emailformat = 'Your outfit for today is a %s, %s, %s, and a %s!'
 
 email = 'devingupta.dev@gmail.com'
-password = 'Thunder331!'
+password = '**********'
 send_to_email = 'tsunamidev1@gmail.com'
 subject = 'Email sent'
 message = (emailformat % (shirt[shirtnum], pant[pantnum], flare[flarenum], jacket[jacketnum]))
