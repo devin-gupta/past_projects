@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 email = 'devingupta.dev@gmail.com'
-password = 'Thunder331!'
+password = '***********'
 send_to_email = 'janhavir90@gmail.com'
 subject = 'This is an automated message'
 message = 'Hi Janhavi, Because you were mean to me, I am going to spam you with these emails. Thanks, Devin'
