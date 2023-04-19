@@ -1,0 +1,6 @@
+import pandas as pd
+
+
+dataframe = pd.read_excel('Devin_6001_8000.xlsx')
+
+print(dataframe)
